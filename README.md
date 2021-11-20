@@ -4,6 +4,7 @@ ___
 This is a portal in django what purpose  only to train my skills
 
 [![Build Status](https://app.travis-ci.com/fernando-stteffen/Django-Portal.svg?branch=main)](https://app.travis-ci.com/fernando-stteffen/Django-Portal)
+[![codecov](https://codecov.io/gh/fernando-stteffen/Django-Portal/branch/main/graph/badge.svg?token=NSOXM90P2J)](https://codecov.io/gh/fernando-stteffen/Django-Portal)
 
 
 ___
