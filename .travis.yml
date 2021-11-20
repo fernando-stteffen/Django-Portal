@@ -1,8 +1,6 @@
 language: python
-sudo: true
-
 python:
-  - 3.9
+  - 3.8.2
 
 env:
   global:
@@ -10,8 +8,8 @@ env:
     - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
-  - pip install pipenv
-  - pipenv sync -d
+  - pip install -q pipenv
+  - pipenv sync --dev
 
 script:
   - pipenv run flake8 .
