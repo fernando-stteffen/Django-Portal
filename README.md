@@ -9,5 +9,8 @@ This is a portal in django what purpose  only to train my skills
 [![Python 3](https://pyup.io/repos/github/fernando-stteffen/Django-Portal/python-3-shield.svg)](https://pyup.io/repos/github/fernando-stteffen/Django-Portal/)
 
 ___
-Created by Fernando Stteffen [Linkedin](https://www.linkedin.com/in/fernando-stteffen-9b9460210/)
+Created by Fernando Stteffen 
+
+[Linkedin](https://www.linkedin.com/in/fernando-stteffen-9b9460210/)
+
 
