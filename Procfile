@@ -1,0 +1,1 @@
+web: gunicorn pyportal.wsi --log-file -
