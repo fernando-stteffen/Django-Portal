@@ -1,1 +1,1 @@
-web: gunicorn pyportal.wsi --log-file -
+web: gunicorn pyportal.wsgi --log-file -
